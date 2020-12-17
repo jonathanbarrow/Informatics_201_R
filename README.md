@@ -1,3 +1,14 @@
-# Informatics_201_R
+# This is a demo repo
 
-This is my repository of works done for Informatics 201. 
+## section 1
+
+I am creating a demo repository. I can make *bold* text.
+
+ A list:
+- item 1
+- item 2
+- item 3
+
+## section 2
+
+< This is an important quote
